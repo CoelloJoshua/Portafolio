@@ -1,0 +1,21 @@
+* {
+    color: brown;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.h2 {
+    background-color: rgb(116, 29, 29);
+    color: white;
+}
+.h22 {
+    background-color: rgb(128, 28, 28);
+    color: rgb(255, 187, 0);
+}
+
+.a{
+    color: orangered;
+}
+
+.b {
+    color: darkcyan;
+}

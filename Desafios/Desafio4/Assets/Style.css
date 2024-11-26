@@ -1,0 +1,65 @@
+.fondo1{
+    width: 100%;
+    height: 100%;
+    z-index: -10;
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+}
+.todo{
+    text-align: center;
+    color: white;
+    margin-right: 122px;
+    margin-left: 122px;
+}
+.titulo{
+    background-color: rgb(151, 21, 84);
+    padding: 8px;
+    background-color: rgb(151, 21, 84) ;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    font-weight: bold;
+}
+.fondo{
+    background-color:rgb(151, 21, 84);
+}
+.img{
+    width: 100%;
+}
+.fondo2{
+    background-color: white;
+    border-radius: 10px ;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+.b{
+    color: rgb(151, 21, 84) ;
+    float: right;
+    margin: 10px;
+    font-style: dotted;
+}
+.p{
+    float: left;
+    margin: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+.d{
+    color: black;
+    float: left;
+}
+.buy{
+    color: white;
+   background-color: green;
+    border-radius: 10px;
+    padding: 10px;
+    border: green
+}
+.final{
+    color: white;
+    background-color: rgb(212, 159, 167);
+    padding: 10px;
+}
