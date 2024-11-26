@@ -1,0 +1,29 @@
+.barra-header a{
+    
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px;
+    padding-right: 60px;
+    display: inline-block;
+    margin: 0;
+}
+
+.barra-header a:hover{
+    background-color: black;
+    transition: .5s;
+    color: blue;
+}
+
+.fondo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -10;
+}
+
+.logo {
+    width: 80px;
+    
+}
